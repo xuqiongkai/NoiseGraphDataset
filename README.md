@@ -6,19 +6,22 @@ Graph datasets for vertext classification task, including modified version with 
 
 Several datasets collected from different sources are included in this project. Each dataset is assigned with a `prefix`. Then the folder structure and file names are determined by following rules:
 
-├── prefix  
-│   ├── prefix.content   
-│   ├── prefix.feature  
-│   ├── prefix.cites  
-│   ├── prefix.label  
-│   ├── prefix.meta  
-│   |     
-│   ├── prefix.cites.add10  
-│   ├── prefix.cites.add5  
-│   ├── prefix.cites.reduce10  
-│   ├── prefix.cites.reduce5  
-│   |  
-│   └── README  
+    .
+    ├── prefix
+    │   ├── prefix.content
+    │   ├── prefix.feature
+    │   ├── prefix.cites
+    │   ├── prefix.label
+    │   ├── prefix.meta
+    │   
+    │   ├── prefix.cites.add10
+    │   ├── prefix.cites.add5
+    │   ├── prefix.cites.reduce10
+    │   ├── prefix.cites.reduce5
+    │   
+    │   ├── README
+    │   
+    └── ...
 
 #### Components
 
