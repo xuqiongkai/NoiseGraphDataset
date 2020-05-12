@@ -80,12 +80,12 @@ It would be appreciated to cite the related publications if you decide to use th
 
 #### Noisy and synthetic settings
 
-@inproceedings{xu2017attentive,
-&nbsp;&nbsp;&nbsp;&nbsp;title={Attentive graph-based recursive neural network for collective vertex classification},
-&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiongkai and Wang, Qing and Xu, Chenchen and Qu, Lizhen},
-&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
-&nbsp;&nbsp;&nbsp;&nbsp;pages={2403--2406},
-&nbsp;&nbsp;&nbsp;&nbsp;year={2017}
+@inproceedings{xu2017attentive,  
+&nbsp;&nbsp;&nbsp;&nbsp;title={Attentive graph-based recursive neural network for collective vertex classification},  
+&nbsp;&nbsp;&nbsp;&nbsp;author={Xu, Qiongkai and Wang, Qing and Xu, Chenchen and Qu, Lizhen},  
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},  
+&nbsp;&nbsp;&nbsp;&nbsp;pages={2403--2406},  
+&nbsp;&nbsp;&nbsp;&nbsp;year={2017}  
 }
 
 #### Cora
